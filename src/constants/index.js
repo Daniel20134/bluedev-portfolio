@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project5 from "../assets/projects/project-5.png"
+import project6 from "../assets/projects/project-6.png"
 
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a desire for creating robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like Html css and React js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
@@ -65,6 +66,13 @@ export const PROJECTS = [
     image: project5,
     description: "A modern food website showcasing delicious meals with an easy-to-use interface for exploring menus and ordering online",
     technologies: ["React", "Vite", "CSS", "React Router", "Node Js", "Express Js"]
+  },
+  {
+    title : "Jersey Store Website",
+    href : "https://jersey-app-green.vercel.app/",
+    image : project6,
+    description : "A modern and responsive jersey store website featuring team collections, product listings, size and player selection, and an interactive shopping cart. Users can browse through different team jerseys, view detailed product pages, and easily add items to their cart. Built with a focus on clean UI, smooth transitions, and an optimized shopping experience across all devices.",
+    technologies: ["React", "Vite", "CSS", "React Router", "Node Js","Redux" , "Express Js"]
   }
 
 ];
