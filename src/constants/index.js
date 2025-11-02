@@ -80,5 +80,6 @@ export const PROJECTS = [
 export const CONTACT = {
   phoneNo: "+234 7069477041",
   email: "danieladelola123@gmail.com",
-  twitter: "@blue_devdan"
+  twitter: "@AdelolaDa46806",
+  tiktok : "@Bluedev(Agba Coder)"
 };
