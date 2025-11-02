@@ -48,7 +48,7 @@ const Hero = () => {
             initial={{ x : 100 , opacity : 0}}
             animate={{ x : 0, opacity : 1}}
             transition={{duration : 1 , delay : 1.2}}
-            src={techguy} className='w-[500px] h-[500px] rounded-full object-cover object-center'  alt="" />
+            src={techguy} className='sm:w-[500px] sm:h-[500px] w-[350px] h-[350px] rounded-full object-cover object-center'  alt="" />
         </div>
         </div>
       </div>
